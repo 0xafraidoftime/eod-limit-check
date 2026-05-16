@@ -1,7 +1,5 @@
 Handle data missing issues in Rates EOD Limit Check reports
 
-Capacity & Performance - Operational Efficiency
-
 Acceptance Criteria:- 
 
 Scenario: Rates EOD Limit Check report should be generated
